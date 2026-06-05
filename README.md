@@ -22,6 +22,12 @@ PhaseTrained LayersLR1Head only1e-32Head + top 601e-43Full model5e-6
 Results
 MetricScoreAccuracy~92–95%AUC~0.96–0.98F1~0.92–0.95
 Tech Stack
-TensorFlow EfficientNetB3 EasyOCR Streamlit MongoDB ngrok scikit-learn
+TensorFlow 
+EfficientNetB3 
+EasyOCR 
+Streamlit 
+MongoDB 
+ngrok 
+scikit-learn
 Dataset Source
 Real and Fake Internship Documents – Kaggle
